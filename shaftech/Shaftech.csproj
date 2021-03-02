@@ -41,12 +41,12 @@
     <Reference Include="itextsharp">
       <HintPath>..\dependencies\itextsharp.dll</HintPath>
     </Reference>
-    <Reference Include="Microsoft.Data.Sqlite">
-      <HintPath>..\dependencies\Microsoft.Data.Sqlite.dll</HintPath>
-    </Reference>
     <Reference Include="Microsoft.VisualBasic" />
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Data.SQLite">
+      <HintPath>..\dependencies\System.Data.SQLite.dll</HintPath>
+    </Reference>
     <Reference Include="System.Management" />
     <Reference Include="System.Numerics" />
     <Reference Include="System.Xml.Linq" />
